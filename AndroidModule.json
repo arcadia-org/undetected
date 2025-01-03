@@ -1,6 +1,6 @@
 {
   "moduleName": "Arcadia",
   "rbxhttp": false,
-  "script": "https://raw.githubusercontent.com/AnyaHubsV2/ArcadiaUI/refs/heads/main/Source.lua",
+  "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/AnyaHubsV2/ArcadiaUI/refs/heads/main/Source.lua'))()",
   "versionName": "1.0"
 }
